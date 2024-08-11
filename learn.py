@@ -13,3 +13,5 @@ print(df)
 #method -2
 df.index=['first','second','third','fourth']
 print(df)
+df['marks]['first']=97
+print(df)
